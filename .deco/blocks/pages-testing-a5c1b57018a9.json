@@ -5,7 +5,9 @@
     {
       "__resolveType": "site/sections/Header.tsx",
       "navigation": {
-        "links": [],
+        "links": [
+          {}
+        ],
         "buttons": []
       },
       "logo": {
@@ -14,7 +16,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
+      "title": "<p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10886/214adfd0-1316-4cbd-bed9-e2f664298d0b\">Click here to tweak this text however you want.</p>",
       "cta": [
         {
           "text": "Assine Agora",

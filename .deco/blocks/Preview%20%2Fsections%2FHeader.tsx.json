@@ -1,1 +1,24 @@
-{"__resolveType":"site/sections/Header.tsx"}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {},
+      {
+        "url": "/what-we-do",
+        "label": "What we do"
+      },
+      {
+        "label": "Individual Plans",
+        "url": "/individual"
+      },
+      {
+        "label": "Business Solutions",
+        "url": "/business"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10886/aa977131-f711-4350-aa8e-43f13317d2c5"
+  }
+}
