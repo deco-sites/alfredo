@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/Theme/Theme.tsx",
+  "buttonStyle": {
+    "--border-btn": "1px",
+    "--rounded-btn": "0.2rem",
+    "--btn-focus-scale": 0.95,
+    "--animation-btn": "0.25s"
+  },
+  "mainColors": {
+    "base-100": "#042B32",
+    "primary": "#e0ffb2",
+    "secondary": "#c7d8de",
+    "tertiary": "#7167e7",
+    "neutral": "#d1bafe",
+    "success": "#e7e188",
+    "warning": "#ed8e07",
+    "error": "#df0c0c"
+  }
+}
