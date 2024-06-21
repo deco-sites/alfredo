@@ -3,7 +3,14 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
+      "__resolveType": "site/sections/Header.tsx",
+      "navigation": {
+        "links": [],
+        "buttons": []
+      },
+      "logo": {
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10886/2ba78d8a-0ef8-48bb-8c3f-27d127494d92"
+      }
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
